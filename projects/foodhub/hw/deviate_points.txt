@@ -1,0 +1,2 @@
+Observation in original question bookm was of H4 (header 4) format
+I kept it as bold only
