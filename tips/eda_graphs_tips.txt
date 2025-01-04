@@ -1,0 +1,6 @@
+FigSize
+
+(10, 6) - for general use
+(15, 5) - for wider horizontal graph
+
+plt.tight_layout()  // to avoid clipping

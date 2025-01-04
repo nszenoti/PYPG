@@ -1,0 +1,7 @@
+Prompt1
+---
+I want to do Univariate Analysis
+So lets start with restaurant_name (ie string type)
+
+Can you suggest me first what graph I can go for & then we will decide how to move further ?
+NOTE: we will be using sns (ie seaborn)
