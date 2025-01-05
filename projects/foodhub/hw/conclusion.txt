@@ -1,0 +1,37 @@
+📌 Points
+
+Obsv
+- There is a higher preference for certain cuisines among customers,
+- Customers who do rate their orders tend to give higher ratings
+- the time it takes for restaurants to prepare orders is fairly consistent.
+  This could suggest that most restaurants have similar preparation times for their orders,
+  or they may follow a standard process for preparing meals.
+  It also indicates that there aren't many variations in how long it takes to prepare food across different orders.
+- that most orders are prepared within a half-an-hour.
+- 25% of the deliveries are very fast, taking only 20 minutes or less
+- Half of all orders are delivered in 25 minutes or less
+- Weekend sees more order than weekdays
+- The most popular cuisine on weekends is *American* with constituting around 31% of weekend orders
+-  Around 30% of orders cost more than $20,
+
+
+Suggestion
+- restaurant should focus on such cuisines to attract more customers.
+- The presence of many 'Not given' ratings could indicate a need for encouraging customers to provide feedback.
+[Totla time]
+- Since a large number of orders are placed on weekends,
+  - Restaurants may consider increasing their staff and resources during weekends to handle the higher volume of orders.
+  - Offering weekend-specific promotions or discounts could also help attract more customers.
+  - Additionally, encouraging advance orders and optimizing delivery times could improve efficiency and customer satisfaction during busy weekends.
+[cuisine]
+- As american cuisine is most sought on weekend, Restaurants offering American cuisine may experience higher demand on weekends and should be prepared to handle the increased volume of orders.
+- Since American cuisine is the most ordered on weekends, the restaurant could focus on promoting and enhancing their American cuisine offerings during this peak time.
+  They could consider introducing exclusive weekend deals or special menus to capitalize on this trend.
+  Additionally, optimizing preparation and delivery for American dishes could help meet the high demand and improve overall customer satisfaction.
+[time delivery]
+- Most orders are prepared within a consistent timeframe. By focusing on improving delivery times, the restaurant could significantly reduce the overall time it takes for customers to receive their orders, leading to a better customer experience.
+
+[Promotional Campaign]
+-To stay competitive and attract more customers, the restaurant could consider introducing promotional campaigns like "Delivered in 30 minutes or get 50% off." Such initiatives align with the growing trend of 10- or 15-minute delivery promises and can help create a buzz while reinforcing trust in their service efficiency.
+- As around 30% of orders cost more than 20 dollar, The restaurant could consider offering premium or larger meal options that cater to this segment of customers.
+  Additionally, promoting special combos or value deals for orders above $20 could help increase customer engagement and boost sales in this price range.

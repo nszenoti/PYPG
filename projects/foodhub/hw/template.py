@@ -23,6 +23,10 @@ plt.rcParams['grid.color'] = 'gray'
 plt.rcParams['axes.spines.top'] = False
 plt.rcParams['axes.spines.right'] = False
 
+# Set global font sizes for title, xlabel, and ylabel
+plt.rcParams['axes.titlesize'] = 16  # Default font size for plot titles
+plt.rcParams['axes.labelsize'] = 14  # Default font size for x and y labels
+
 # ----
 
 # Set global Seaborn style and context

@@ -43,3 +43,20 @@ This notebook provides an in-depth analysis of the dataset **[Dataset Name]** an
 - The analysis has revealed insights about the relationship between `Feature X` and the target variable.
 - Outliers and missing values need to be addressed before proceeding with predictive modeling.
 - Next steps involve data cleaning and preparing features for modeling.
+
+
+---
+
+🔍 **_Observation_**
+🔍 Insights
+⚡ Note
+💡 Note
+📝 Gist
+❓ Question
+✅ Answer
+🛠️ Python Utils
+📝 Conclusion
+
+📌 ***Points***:
+
+#### Attribute: cost_of_the_order
