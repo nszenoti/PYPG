@@ -1,3 +1,5 @@
+
+
 📌 Points
 
 Obsv
@@ -13,19 +15,53 @@ Obsv
 - Weekend sees more order than weekdays
 - The most popular cuisine on weekends is *American* with constituting around 31% of weekend orders
 -  Around 30% of orders cost more than $20,
+- there are very few repeating customers, as Most of the customers placed order for once only.
+  - However, there is a small group of customers who place multiple orders, with the highest order count reaching 13.
+  - Only around 12.5% of customers placed order more than twice
 
+- customer are not influenced heavily by cost of an order, when its come to ratings.
+- Most of orders are delivered in 20 to 30 mins, regardless of ratings
+- No Strong Influence of Rating on Delivery Time Variability
+- Whether the delivery time is slightly longer or shorter, customers tend to give similar ratings.
+- Customers across all ratings are experiencing similar ranges of delivery times, which could imply that the company's delivery system has a consistent performance regardless of customer satisfaction
+- Most of the restaurants have their own area of expertise regarding specific cuisines
+- top restaurants dont have much variety in cuisine type, they are specialized in one or two cuisine types.
+
+- it seems that the preparation time for food items does not strongly influence their cost
+
+patterns
+
+- Spanish cuisine are mostly sold on weekends.
+- American and japanese Cuisines are most famous amongst all
+- Vietnamese & Thai cuisines are least sought by customers.
+
+- Southern dishes has good sort of varities for lower-spender as well as high-spender.
+- Southern cuisines might be having variety of dishes serving each segment of consumer needs.
+- Typically Korean & Vietnamese dishes are cheaper compare to others
+
+[**IMP]
+- People in New-York don't like to consume Spanish & Korean dishes during weekdays
+
+- This is quite interesting, as weekend observes more orders compare to weekday, still orders are delivered in lesser time during weekend.
+This suggests that there may be some other factors affecting the delivery time during weekday (maybe traffic of New-York)
+
+
+-------
 
 Suggestion
 - restaurant should focus on such cuisines to attract more customers.
 - The presence of many 'Not given' ratings could indicate a need for encouraging customers to provide feedback.
+
 [Totla time]
 - Since a large number of orders are placed on weekends,
   - Restaurants may consider increasing their staff and resources during weekends to handle the higher volume of orders.
   - Offering weekend-specific promotions or discounts could also help attract more customers.
   - Additionally, encouraging advance orders and optimizing delivery times could improve efficiency and customer satisfaction during busy weekends.
 [cuisine]
-- As american cuisine is most sought on weekend, Restaurants offering American cuisine may experience higher demand on weekends and should be prepared to handle the increased volume of orders.
-- Since American cuisine is the most ordered on weekends, the restaurant could focus on promoting and enhancing their American cuisine offerings during this peak time.
+- Given Spanish cuisnes are sold mostly during weekend only, the business could consider promoting Spanish dishes or offering weekend specials to boost sales and capitalize on this trend.
+  Additionally, adjusting marketing campaigns and promotions to align with customer preferences could help increase weekday orders as well.
+- As american & japanese cuisines are one of most sought cuisine, Restaurants offering such cuisines may experience higher demand on weekends and should be prepared to handle the increased volume of orders.
+- the restaurant could focus on promoting and enhancing their offerings during this peak time.
   They could consider introducing exclusive weekend deals or special menus to capitalize on this trend.
   Additionally, optimizing preparation and delivery for American dishes could help meet the high demand and improve overall customer satisfaction.
 [time delivery]
@@ -35,3 +71,20 @@ Suggestion
 -To stay competitive and attract more customers, the restaurant could consider introducing promotional campaigns like "Delivered in 30 minutes or get 50% off." Such initiatives align with the growing trend of 10- or 15-minute delivery promises and can help create a buzz while reinforcing trust in their service efficiency.
 - As around 30% of orders cost more than 20 dollar, The restaurant could consider offering premium or larger meal options that cater to this segment of customers.
   Additionally, promoting special combos or value deals for orders above $20 could help increase customer engagement and boost sales in this price range.
+
+- As there are very few repeating customers,
+- Since most customers only place one order, there is an opportunity to boost customer retention through loyalty programs or promotions aimed at encouraging repeat orders. Targeting the small group of high-frequency customers with exclusive offers could further strengthen their loyalty and increase their order frequency.
+
+- Given the strong weekend demand for Spanish cuisine, the business could consider promoting Spanish dishes or offering weekend specials to boost sales and capitalize on this trend. Additionally, adjusting marketing campaigns and promotions to align with customer preferences could help increase weekday orders as well.
+
+- As italian and chinese cusines are also preferred after american and japanese cuisines,
+The business could leverage this insight by offering combo deals or promotions that highlight Italian and Chinese dishes,
+especially during peak ordering times, to further drive sales.
+This could also help in balancing the demand across different cuisines and maintaining customer interest.
+
+[Ratings]
+- Focus on improving non-cost-related aspects like food presentation, freshness, delivery accuracy, and speed, as customer are not ratings influenced by cost of an order, heavily.
+- Encourage customers to leave feedback on what they enjoyed or disliked about their experience to identify areas for improvement.
+- Consider adding value to the customer experience through small gestures like complimentary items or personalized notes, which could help boost ratings without impacting average costs.
+
+- Improve Customer Retention & Loyalty Strategies, as customer repeat ratio is very low

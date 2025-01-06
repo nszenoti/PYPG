@@ -1,0 +1,17 @@
+Add this consideration
+
+Q. Check if any ratings related que is not considering the nan/not given value
+
+Cuisine type
+- add one more univariate plot
+
+
+
+Multi --
+
+covered
+
+1. cuisine type & day of week (C, C)
+2, Rating & Cost of Order (C, N)
+
+todo --
