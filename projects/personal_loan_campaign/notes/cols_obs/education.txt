@@ -1,0 +1,14 @@
+
+
+**Key Observations for Education:**
+
+1. **Distribution Pattern**:
+   - Undergrad (1): 2,096 customers (42%)
+   - Graduate (2): 1,403 customers (28%)
+   - Advanced/Professional (3): 1,501 customers (30%)
+
+2. **Dominance**: Undergraduates form the largest segment (42%), while Graduate and Advanced degrees are fairly balanced (~30% each)
+
+3. **Decision Tree Impact**: Well-distributed categories with no extreme imbalance, making it a potentially good feature for splitting
+
+4. **Business Context**: Good mix of education levels in customer base, suggesting need for diverse loan strategies

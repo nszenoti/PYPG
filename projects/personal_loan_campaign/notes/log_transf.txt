@@ -1,0 +1,5 @@
+When to apply log-transformation:
+- When the data is positively skewed.
+- When the distribution has large outliers.
+- When the variance in the data increases with the value (heteroscedasticity).
+- For making better visualizations and improving model performance when dealing with data that has large differences in scale.

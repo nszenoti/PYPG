@@ -1,6 +1,7 @@
 import seaborn as sns
 import matplotlib.pyplot as plt
 
+
 # Set global style
 sns.set_theme(style="whitegrid")  # Options: white, darkgrid, ticks
 

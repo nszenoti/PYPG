@@ -1,0 +1,29 @@
+Observation 🔍
+
+- Half of our customers don't have any home loans at all
+- For those who do have mortgages, the typical amount is around $56,500
+- There's a huge variety in mortgage amounts - some have small loans while others have very large ones
+- The biggest home loan in our dataset is $635,000
+- Looking at the spread: 75% of customers either have no mortgage or owe less than $101,000
+
+
+---
+
+📌 Points
+
+- Mortgages split into two main groups after log transformation
+- Most loans are either around $100K or $200K
+- The two groups likely represent:
+  - New homebuyers getting $100K loans
+  - Existing owners getting $200K loans
+
+- Still slightly right skewed, Seems actually there are very less people on heavy loan
+- More uniform spread of value for customers who possess loans, comparatively
+
+**Zero values consideration**: Since many mortgages are zero, a log transformation might not impact them directly, so an additional categorical flag (e.g., "Has Mortgage" vs. "No Mortgage") could be useful.
+
+- The first peak at 100K might represent a concentration of loans around this value (possibly the most common loan amount or a frequent range).
+
+- The second peak at 200K could suggest another cluster of loans, indicating that borrowers tend to group around these two values.
+
+- This means the decision tree may focus more on customers who actually have a mortgage and might not give much weight to customers who don’t, as the log transformation flattens the distribution for non-loan holders.

@@ -1,0 +1,7 @@
+https://www.kaggle.com/code/kaushikmajumder/personal-loan-campaign-model#Exploratory-Data-Analysis-on-the-Incorrectly-Predicted-Data
+
+https://www.kaggle.com/code/zacharymatu/personal-loan-campaign-decision-trees
+
+https://www.kaggle.com/code/habilmohammed/personal-loan-campaign-classification
+
+https://www.kaggle.com/code/arunk12/personal-loan-campaign-analysis

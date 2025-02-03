@@ -1,0 +1,18 @@
+Here are some quick observations based on the summary statistics for CCAvg (average credit card spending):
+
+Range: The minimum value is 0, while the maximum value is 10. This indicates that the ccavg variable spans from 0 to 10, which suggests there are some customers with no credit card spending at all.
+
+Mean and Median:
+
+The mean is 1.94, while the 50% (median) is 1.50, indicating a slight right-skewness because the mean is higher than the median.
+This implies that most customers have low credit card spending, but there are some customers with higher spending (since the mean is above the median).
+Standard Deviation: The std is 1.75, indicating that there is a significant spread in the data. Some customers have much higher spending compared to others.
+
+Quartiles:
+
+25% of the customers have ccavg values below 0.70.
+75% of the customers have ccavg values below 2.50, showing that the majority have low credit card spending.
+Zero Spending: The fact that the minimum is 0 suggests there are customers who don't spend anything on credit cards, which could be an important feature for decision-making.
+
+
+This indicates a moderate positive skew, meaning more customers have lower credit card spending, but a few have higher values.

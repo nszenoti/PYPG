@@ -1,0 +1,6 @@
+Numeric Values ---
+
+Histograms
+
+- Splitting thresolds
+- If there is skew then classifier may prefer opposite side for thresholds
