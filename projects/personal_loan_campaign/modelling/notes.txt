@@ -1,0 +1,8 @@
+Information Gain
+
+Entropy
+
+Stopping Criteria
+- Max Depth
+- Min #samples
+- min impurtiy decrease (ie min entropy change for DT to progress)

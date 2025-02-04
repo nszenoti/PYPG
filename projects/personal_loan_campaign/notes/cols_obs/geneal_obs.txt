@@ -5,3 +5,6 @@
 - Many people are there who took small loan for house and are conservative in their credit card expenditure
 
 Approximately 20% of them accepted the personal loan, while having medium house loans
+
+
+Seems Education be regarded than Family Size for personal loan campaign, as first model converge earlier with less depth & almost equal performance
