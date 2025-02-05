@@ -3,7 +3,24 @@ default
 	Accuracy	Recall	Precision	F1
 0	0.99	0.93	0.95	0.94
 
+Depth : 13
+#Nodes : 125
+
+--
 balanced
 
 	Accuracy	Recall	Precision	F1
 0	0.99	0.92	0.96	0.94
+
+depth : 18
+#Nodes : 175
+
+For both the cases
+min_sample_leaf = 1
+min_samples_split = 2
+
+---
+preprunned
+
+	Accuracy	Recall	Precision	F1
+0	0.99	0.91	0.95	0.93
