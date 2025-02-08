@@ -1,0 +1,43 @@
+
+
+
+
+
+
+Let's analyze both approaches hypothetically:
+
+1. **Using both during GridSearchCV**:
+```
+GridSearchCV(
+    DecisionTreeClassifier(class_weight='balanced'),
+    scoring='f1_weighted'
+)
+```
+- Pros:
+  - Each parameter combination is evaluated with balanced trees
+  - Parameter selection considers both class weighting and weighted metric
+  - More consistent approach
+- Cons:
+  - Might be "double-counting" the class imbalance
+  - Could lead to over-compensation for minority class
+
+2. **Using f1_weighted first, then balanced tree**:
+```
+1. Find params with f1_weighted scoring
+2. Use params to build balanced tree separately
+```
+- Pros:
+  - Cleaner separation of concerns
+  - Parameters selected based on weighted metric first
+  - Then apply balancing to final model
+- Cons:
+  - Parameters chosen might not be optimal for balanced tree
+  - Two-step process might lead to suboptimal results
+  - Parameters optimal for unbalanced might not work well with balancing
+
+**Recommendation**: Approach 1 (using both during GridSearchCV) is more theoretically sound because:
+- Parameters are optimized while considering class weights
+- More coherent single-step process
+- Better alignment between model training and parameter selection
+
+The second approach feels more like mixing two different strategies that weren't optimized together.

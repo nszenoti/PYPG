@@ -20,7 +20,43 @@ min_sample_leaf = 1
 min_samples_split = 2
 
 ---
-preprunned
+preprunned 1 (f1)
 
 	Accuracy	Recall	Precision	F1
 0	0.99	0.91	0.95	0.93
+
+Number of nodes: 81
+Tree depth: 10
+
+Education > Income > Family > CCAvg
+
+---
+preprunned 2 (recall)
+
+	Accuracy	Recall	Precision	F1
+0	0.98	0.89	0.95	0.92
+
+# nodes = 59
+# depth = 10
+
+Education > Income > Family > CCAvg
+---
+preprunned 3 (f1_weighted)
+
+	Accuracy	Recall	Precision	F1
+0	0.98	0.92	0.91	0.92
+
+#depth = 10
+#nodes = 99
+
+Income > Family > Education > CCAvg
+---
+preprunned 4 (f1_wei_bal)
+
+Accuracy	Recall	Precision	F1
+0	0.97	0.95	0.83	0.89
+
+# nodes - 97
+#depth - 10
+
+

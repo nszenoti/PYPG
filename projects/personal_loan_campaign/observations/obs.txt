@@ -1,0 +1,7 @@
+This shows a clear majority of customers without external credit cards. This suggests room for potential credit card customer acquisition
+
+50% of people with high mortagage and high spending on credit card choose to go for Personal Loan
+
+Approximately 20% of them accepted the personal loan, while having medium house loans
+
+Seems Education be regarded than Family Size for personal loan campaign, as first model converge earlier with less depth & almost equal performance

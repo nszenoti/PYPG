@@ -1,13 +1,12 @@
 {
     "python.defaultInterpreterPath": "/Users/nipunshah/anaconda3/bin/python3",
     // add formatter config
-
-
     "python.formatting.provider": "ruff",
     "python.formatting.autopep8Path": "",
     "python.formatting.blackPath": "",
     "python.formatting.yapfPath": "",
     "python.linting.enabled": true,
     "python.linting.ruffEnabled": true,
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "cSpell.enabled": false,
 }

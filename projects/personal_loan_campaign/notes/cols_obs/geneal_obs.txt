@@ -8,3 +8,7 @@ Approximately 20% of them accepted the personal loan, while having medium house 
 
 
 Seems Education be regarded than Family Size for personal loan campaign, as first model converge earlier with less depth & almost equal performance
+
+- Half of our customers don't have any home loans at all
+
+- Looking at the spread: 75% of customers either have no mortgage or owe less than $101,000
