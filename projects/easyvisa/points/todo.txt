@@ -1,0 +1,7 @@
+Preprocessing
+
+Handle -ve values (no_of_employees)
+- It seems the -ve values may be due to data entry.
+  we can either discard them or take absolute value
+
+2. Convert object to category type

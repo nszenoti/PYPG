@@ -1,0 +1,4 @@
+Looking at the numbers:
+Company sizes vary dramatically - from tiny operations to massive corporations with over 600,000 employees. Most companies are mid-sized.
+Company age shows most are established businesses, not startups. The oldest dates back to 1800.
+Wages range from extremely low ($2.14) to very high ($319,210), with most around $70,000. The huge range suggests different job types or possible data errors at the low end.

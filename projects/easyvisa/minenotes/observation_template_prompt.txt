@@ -1,0 +1,12 @@
+observation_template_prompt
+
+
+
+I understand. I'll follow the same format for all upcoming EDA features:
+
+- Plain English observations
+- Layman terms
+- Business implications 
+- Concise points
+
+I'll maintain this consistent structure for any future feature analysis you ask me to comment on.
