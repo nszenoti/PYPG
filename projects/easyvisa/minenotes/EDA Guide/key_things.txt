@@ -1,0 +1,18 @@
+key_things
+To look 
+
+Natural Breakpoints in data 
+Clear seperations between classes
+Outliers that might create unnecessary splits
+Categories that might need ti be grouped
+
+
+Box Plot 
+- WideSpread suggests more potential splits
+- Tight Boxes might indicate less informative features
+
+Categorical | Bar Plot 
+- Which feature leds to specific class contribution
+- Categpries which shows good class imbalance will be useful
+
+Bar Plot Insight: Look for categories where one target class is much higher than the others.

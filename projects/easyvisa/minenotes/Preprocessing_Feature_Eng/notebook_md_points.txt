@@ -1,0 +1,12 @@
+notebook_md_points
+
+
+Outliers
+Trees naturally handle outliers by creating separate branches.
+
+The tree structure will naturally adapt to find meaningful year thresholds if they exist, regardless of the distribution shape.
+
+Binning 
+Trees handle continuous values well, but bins can help interpretability.
+If bins show clear separation in target variable trends, they might be useful.
+If the binned feature isn't useful, the model will simply ignore it without degrading performance.

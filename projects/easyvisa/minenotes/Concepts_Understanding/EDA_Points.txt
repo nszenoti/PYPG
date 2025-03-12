@@ -1,0 +1,18 @@
+EDA_Points
+
+Categorical 
+
+* Stacked/Segmented Bar Chart 
+- Shows us percentage of proportions within each category 
+  But
+  It doesn't reveal how Dominant Category is compare to others
+
+  It might give idea about strong/weak splits but not good idea about dominant/rare categories
+
+* Mosiaic Plot 
+- Gives idea about both 
+  Dominant/Rare Categories
+  &
+  Strong/Weak Splits
+
+  https://www.youtube.com/watch?v=b9G5pWuxb1Y

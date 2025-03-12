@@ -1,21 +1,64 @@
-Continent
+Business Implications
 
-**Business implications**: 
-   - Visa processing systems should be optimized for Asian applicants
+
+Continent
+---
+ - Visa processing systems should be optimized for Asian applicants
    - Cultural and language considerations for Asian applicants may be particularly important
    - There might be untapped talent pools in underrepresented regions like Africa and South America
 
 Education
-
-
-4. **Business implications**:
+---
    - Visa processing systems should be optimized for college-educated applicants
    - Different approval patterns may exist across education levels
    - Companies are using visa programs primarily for skilled positions requiring higher education
 
 has job experience
-
-4. **Business implications**:
+---
    - Visa processing may need different evaluation criteria for experienced vs. inexperienced applicants
    - Companies are using visa programs for both experienced hires and fresh talent
    - Different approval patterns may exist based on experience level
+
+
+requires job training
+---
+- Visa programs are primarily used for ready-to-work employees rather than trainees
+- Companies prefer candidates who can contribute immediately without additional training
+- Training requirements may be a distinguishing factor for certain specialized positions
+
+no_of_employees
+--
+- Most visa applications come from mid-sized companies (100-10K employees), with fewer applications from very small or very large organizations.
+
+- Larger companies appear more successful at navigating the visa process, possibly due to more resources, experience with immigration procedures, or stronger business cases.
+
+Year_Of_estab
+---
+Most visa applications come from companies established in recent decades, with fewer from very old companies.
+The data shows that as years progress, more companies in the dataset were established, with a concentration of companies founded in recent decades. This reflects both the general growth in business formation over time and possibly a higher likelihood of newer companies seeking foreign workers through visa applications.
+
+Potential insight: The model might discover that very old companies (e.g., established before 1900) have different approval patterns than modern companies.
+
+- Companies established after 2005 have notably higher approval rates (69.6%) compared to companies from other eras (65-66%).
+- Companies established before 2006 show remarkably consistent denial rates (33-35%), suggesting age isn't a major factor among established companies.
+
+**Business insight**: The data suggests newer companies might have advantages in the visa process, possibly due to being in growing industries or having more modern business practices.
+
+region_of_employment
+----
+**Business implications**: Visa processing resources might need to be allocated proportionally across regions, with special consideration for the unique needs of the Island region.
+
+**Coastal dominance**: Coastal regions (Northeast and West) together account for over half of all visa applications, reflecting the concentration of industries that typically hire foreign workers.
+
+Prevailing Wage 
+---
+ The labor market naturally segments into these wage bands, reflecting different qualification levels and job responsibilities.
+
+ Wage Unit 
+ ---
+ 💡 **Business insight**: Most visa applications are for salaried positions rather than hourly wage jobs, reflecting the professional nature of many visa-sponsored positions.
+
+Full time Position
+--- 
+The vast majority (89.4%) of visa applications are for full-time positions.
+**Business insight**: Visa programs are primarily used for full-time employment, reflecting immigration policies that generally favor permanent, stable positions over temporary or part-time work.

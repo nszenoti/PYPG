@@ -1,0 +1,5 @@
+no_of_employees
+
+
+
+Add a new binned feature rather than replacing the existing column. This approach gives your tree-based model the option to use either the original detailed values or the simplified binned categories, depending on which provides better splits. The model will naturally favor the more predictive feature, and you won't lose any information from the original data.

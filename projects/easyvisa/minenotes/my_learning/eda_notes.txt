@@ -1,0 +1,7 @@
+eda_notes
+
+For Highly Skewed Feature we can Try 
+- Log Transformation
+- Binning
+
+It dependes on nature of feature which one you choose

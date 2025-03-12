@@ -1,0 +1,17 @@
+observations 
+
+No_Of_Employee
+Nearly 70% of visa applications come from medium-sized companies (1K-10K employees)
+Approval rates increase with company size
+
+Year of Estab 
+Most companies are relativelt newer
+the data shows that as years progress, more companies in the dataset were established, with a concentration of companies founded in recent decades. This reflects both the general growth in business formation over time and possibly a higher likelihood of newer companies seeking foreign workers through visa applications.
+
+1. Modern companies dominate
+2. New Age companies have highest approval rates
+3. Little difference in visa outcomes among established companies
+
+Wage 
+**Higher wages, higher approvals**
+Entry-level wages have significantly lower approval rates

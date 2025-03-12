@@ -1,0 +1,4 @@
+points
+
+For **tree-based models**, no transformation is needed. They handle skewed data well. ✅
+

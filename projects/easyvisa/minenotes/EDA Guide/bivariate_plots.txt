@@ -1,0 +1,41 @@
+bivariate_plots
+
+Good approach! Let's pick **5-6 most insightful pairs** that align with our **classification goal** and **ensemble model** usage:  
+
+### **1️⃣ case_status vs prevailing_wage** (Numerical → Target)  
+   **Potential insight:** Does wage influence approval? Any wage range where approvals are significantly higher/lower?  
+
+### **2️⃣ case_status vs no_of_employees** (Numerical → Target)  
+   **Potential insight:** Do larger companies get more approvals? Any threshold where smaller firms face more denials?  
+
+### **3️⃣ case_status vs yr_of_estab** (Numerical → Target)  
+   **Potential insight:** Are older firms more likely to get approved? Does age matter?  
+
+### **4️⃣ case_status vs region_of_employment** (Categorical → Target)  
+   **Potential insight:** Any regions with high denials? Is employment location influencing approval rates?  
+
+### **5️⃣ case_status vs has_job_experience** (Categorical → Target)  
+   **Potential insight:** Do candidates with prior experience have better approval chances?  
+
+### **6️⃣ case_status vs full_time_position** (Categorical → Target)  
+   **Potential insight:** Are full-time positions more likely to be approved compared to part-time?  
+
+These should provide solid business + modeling insights.  
+Should we start with **wage vs case_status**?
+
+----
+
+
+1. **education_of_employee vs. prevailing_wage**: Explore how education level relates to salary and jointly affects approval rates
+
+2. **continent vs. case_status**: Examine if approval rates vary significantly by region of origin
+
+3. **wage_category vs. has_job_experience**: Analyze how experience and compensation together influence outcomes
+
+4. **company_size_category vs. case_status**: Investigate if company size has different approval patterns
+
+5. **company_era (binned yr_of_estab) vs. full_time_position**: See if newer vs. established companies differ in full-time vs. part-time approval rates
+
+6. **education_of_employee vs. has_job_experience**: Understand how education and experience jointly affect visa decisions
+
+These combinations should reveal important interactions that tree-based models can leverage for classification.

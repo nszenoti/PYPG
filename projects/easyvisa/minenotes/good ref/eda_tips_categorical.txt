@@ -1,0 +1,4 @@
+eda_tips_categorical
+
+[Mosiac Plot | Categorical]
+https://www.youtube.com/watch?v=b9G5pWuxb1Y

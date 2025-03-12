@@ -1,0 +1,15 @@
+todo
+
+
+no_of_emp --- 
+1. Make no of employees column abs() // ie remove -ves
+2. Add new column company size as category column
+
+yr_of_estab ---
+1. Make Company Age (5 bins)
+or 
+1. Make Company Era (4 bins) // Selected
+
+wage ---
+1. create bin (4 size )
+

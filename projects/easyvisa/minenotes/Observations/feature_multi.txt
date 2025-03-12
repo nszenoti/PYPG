@@ -1,0 +1,12 @@
+feature_multi
+
+Continent & Case Status
+---
+Europe has highest approval rate
+South America faces most challenges
+North America surprisingly low
+Asia dominates volume but average success
+
+has Job Expericen & Case Sttatus
+---
+**Business insight**: This aligns with immigration policies that typically favor experienced workers who can immediately contribute to the workforce.
