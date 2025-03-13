@@ -10,3 +10,35 @@ Asia dominates volume but average success
 has Job Expericen & Case Sttatus
 ---
 **Business insight**: This aligns with immigration policies that typically favor experienced workers who can immediately contribute to the workforce.
+
+
+No_of_Employee vs Case_Study
+---
+Applicants shouldn't necessarily favor larger or smaller companies based solely on approval odds.
+
+region of employment
+---
+Regions matter for Visa Outcome
+Business implications - Companies and applicants should consider regional factors when planning visa applications, as they appear to influence outcomes.
+
+Wage vs Case Status
+---
+Very high-paying positions might have a slightly better chance of approval.
+
+1. **Low-wage threshold effect**: There may be a higher scrutiny or denial rate for very low-wage positions, possibly reflecting immigration policies that prioritize higher-skilled workers.
+
+2. **Entry-level position challenges**: This could indicate that entry-level or lower-skilled positions face more challenges in the visa process.
+
+3. **Potential split point for trees**: This separation in the low wage range could be a valuable split point for tree-based models, even if the overall distributions are similar.
+
+4. **Targeted insight**: While prevailing wage might not be strongly predictive across its entire range, it could be particularly informative at the lower end of the spectrum.
+
+Unit of Wage
+---
+The vast majority of applications use yearly wage (over 90%), making it the dominant category.
+
+
+full time position
+---
+
+5. **Business insight**: The similar approval rates suggest that immigration authorities don't strongly discriminate between full-time and part-time positions in their decision-making process.

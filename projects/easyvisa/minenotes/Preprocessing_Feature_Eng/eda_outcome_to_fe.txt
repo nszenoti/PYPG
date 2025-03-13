@@ -1,0 +1,4 @@
+eda_outcome_to_fe
+
+Because Yr of Establishment and No-of_Employee didnt found to be that useful as numerical 
+Lets try binnig them

@@ -1,0 +1,21 @@
+ref_mine_notes_gen
+
+
+EDA ----------------------
+
+
+Categorical Plots | Trees
+https://chatgpt.com/c/67d0860f-7ca4-8008-a1ed-a47a7470e234
+
+
+
+
+Featire Eng -------------
+
+
+
+
+
+[Feature Eng vs Preprocessing]
+https://chatgpt.com/c/67d124e2-aa24-8008-a9ed-23870a2f0fc3
+

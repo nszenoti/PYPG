@@ -15,3 +15,7 @@ the data shows that as years progress, more companies in the dataset were establ
 Wage 
 **Higher wages, higher approvals**
 Entry-level wages have significantly lower approval rates
+
+Unit of Wage
+**Business insight**
+The much higher denial rate for hourly positions suggests these jobs face greater scrutiny, possibly because they're seen as less stable or lower-skilled.

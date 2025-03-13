@@ -1,0 +1,7 @@
+gist
+
+BiVariate Analysis 
+---
+1. Stacked/Grouped Bar Plot
+2. Mosaic Plot
+3. Chi-Square Test

@@ -5,3 +5,8 @@ For Highly Skewed Feature we can Try
 - Binning
 
 It dependes on nature of feature which one you choose
+
+For Categorical | Tree based 
+
+Mosaic Plot
+Chi-Square Tes
