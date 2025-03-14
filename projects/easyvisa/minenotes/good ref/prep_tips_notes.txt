@@ -1,0 +1,5 @@
+prep_tips_notes.txt
+
+
+[Feature Eng | Preprcoessing | Steps | Guide]
+https://chatgpt.com/c/67d124e2-aa24-8008-a9ed-23870a2f0fc3

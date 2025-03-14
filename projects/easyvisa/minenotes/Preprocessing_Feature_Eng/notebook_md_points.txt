@@ -10,3 +10,7 @@ Binning
 Trees handle continuous values well, but bins can help interpretability.
 If bins show clear separation in target variable trends, they might be useful.
 If the binned feature isn't useful, the model will simply ignore it without degrading performance.
+
+Type Casting (Category)
+-- 
+Not needed as We are going to perform Encoding later
