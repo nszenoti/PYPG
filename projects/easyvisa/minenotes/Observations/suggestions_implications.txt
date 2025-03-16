@@ -1,0 +1,12 @@
+suggestions_implications
+
+
+Based on above models from different techniques, we can draw few understanding that: 
+
+For visa applicants: Focus on maximizing education credentials and relevant work experience, as these far outweigh other factors in approval decisions.
+
+For OFLC: The current visa approval process heavily prioritizes educational qualifications, potentially creating bias against skilled workers with extensive experience but less formal education.
+
+For US employers: When sponsoring foreign workers, prioritize candidates with advanced degrees and significant work experience, particularly for positions with annual salary structures, to maximize visa approval chances.
+
+The consistent importance of "unit_of_wage_Year" suggests that visa applications with annual salary structures (typically professional or managerial positions) receive preferential treatment compared to hourly/weekly/monthly wages, indicating OFLC favors long-term professional roles over temporary or lower-skilled positions.

@@ -1,0 +1,43 @@
+feature_importance
+
+Decision Tree 
+
+0	education_of_employee	0.46
+4	has_job_experience	0.21
+18	unit_of_wage_Year	0.11
+8	continent_Europe	0.07
+21	prevailing_wage	0.07
+12	region_of_employment_Midwest	0.05
+
+Random Forest 
+
+0	education_of_employee	0.38
+4	has_job_experience	0.15
+21	prevailing_wage	0.14
+18	unit_of_wage_Year	0.08
+
+
+Ada Boost
+
+0	education_of_employee	0.25
+19	no_of_employees	0.20
+4	has_job_experience	0.16
+21	prevailing_wage	0.11
+20	yr_of_estab	0.05
+
+Gradient Boost
+
+0	education_of_employee	0.45
+4	has_job_experience	0.16
+21	prevailing_wage	0.10
+18	unit_of_wage_Year	0.07
+8	continent_Europe	0.05
+
+XgBoost
+
+0	education_of_employee	0.24
+4	has_job_experience	0.18
+21	prevailing_wage	0.09
+18	unit_of_wage_Year	0.09
+8	continent_Europe	0.08
+12	region_of_employment_Midwest	0.05

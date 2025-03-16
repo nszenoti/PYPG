@@ -7,3 +7,21 @@ This aligns with immigration policy priorities that favor highly educated, exper
 Random Forest
 
 The US visa system favors highly educated, experienced professionals with good salaries, especially those in traditional professional roles with annual compensation structures.
+
+Ada Boost
+
+While education and experience remain crucial, the model indicates that who you work for matters significantly - larger, established companies have better visa approval rates.
+
+This makes practical sense: immigration authorities may have more confidence in established organizations with track records of legitimate hiring practices.
+
+Gradient Boost
+
+Unlike AdaBoost, this model doesn't emphasize employer characteristics (company size/age). Instead, it focuses more heavily on applicant qualifications and slightly on geography.
+
+This suggests Gradient Boosting has identified that individual qualifications are the primary drivers, with some regional preferences, while company characteristics are less influential in visa decisions.
+
+XgBoost
+
+XgBoost (Tuned) provide more balanced-view over features contribution
+
+This suggests visa decisions are based on a more balanced combination of qualifications (education, experience), compensation structure, and geographic factors. The model indicates that while education matters, it's just one of several important factors, with experience and location playing significant roles.
