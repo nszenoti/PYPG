@@ -1,0 +1,6 @@
+I understand. I've noted the insights about the sanity checks:
+
+- No outliers among the predictors (at least not above the 5% threshold)
+- Some feature pairs show correlation at 0.8 threshold, but none at 0.9 threshold, indicating no extremely strong correlations
+
+I won't reply further until you provide additional instructions.

@@ -1,0 +1,1 @@
+Yes, a KDE plot with two numeric columns and target as hue can be very helpful. It shows the density distribution of both classes simultaneously, revealing where failure/non-failure cases concentrate in the 2D feature space. This can highlight separation patterns that might be obscured in scatter plots, especially with overlapping points or large datasets

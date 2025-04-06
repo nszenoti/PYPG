@@ -1,0 +1,6 @@
+📌 Setup:
+All numeric columns
+
+Binary target: 0 (No Failure) vs 1 (Failure)
+
+Downstream model: Neural Network (non-linear, scale-sensitive)

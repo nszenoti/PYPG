@@ -1,0 +1,3 @@
+V1
+So, V1 has discriminative power — very useful feature for classification.
+
