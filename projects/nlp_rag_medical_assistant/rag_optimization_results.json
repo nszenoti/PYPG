@@ -1,0 +1,302 @@
+{
+  "Question 1": {
+    "question": "What is the protocol for managing sepsis in a critical care unit?",
+    "configurations": [
+      {
+        "configuration": 1,
+        "settings": {
+          "retriever_k": 5,
+          "llm_params": {
+            "temperature": 0.5,
+            "maxTokenCount": 1500
+          }
+        },
+        "response": " The first step is to keep the patient warm. Then, hemorrhage is controlled, airway and ventilation are checked, and respiratory assistance is given if necessary. Nothing is given by mouth, and the patient's head is turned to one side to avoid aspiration if emesis occurs. Treatment begins simultaneously with evaluation. Supplemental O2 by face mask is provided. If shock is severe or if ventilation is inadequate, airway intubation with mechanical ventilation is necessary. Two large (16- to 18-gauge) IV catheters are inserted into separate peripheral veins. A central venous line or an intraosseous needle, especially in children, provides an alternative when peripheral veins cannot promptly be accessed (see also p. 2250)."
+      },
+      {
+        "configuration": 2,
+        "settings": {
+          "retriever_k": 8,
+          "llm_params": {
+            "temperature": 0.4,
+            "maxTokenCount": 1500
+          }
+        },
+        "response": " Fluid resuscitation with 0.9% saline should be given until CVP reaches 8 mm Hg (10 cm H2O) or PAOP reaches 12 to 15 mm Hg. Oliguria with hypotension is not a contraindication to vigorous fluid resuscitation. The quantity of fluid required often far exceeds the normal blood volume and may reach 10 mL/kg."
+      },
+      {
+        "configuration": 3,
+        "settings": {
+          "retriever_k": 3,
+          "llm_params": {
+            "temperature": 0.5,
+            "maxTokenCount": 1800
+          }
+        },
+        "response": " Fluid resuscitation, broad-spectrum antibiotics, drainage of abscesses, and normalization of blood glucose levels."
+      },
+      {
+        "configuration": 4,
+        "settings": {
+          "retriever_k": 5,
+          "llm_params": {
+            "temperature": 0.7,
+            "maxTokenCount": 1500
+          }
+        },
+        "response": " Fluid resuscitation with 0.9% saline should be given until CVP reaches 8 mm Hg (10 cm H2O) or PAOP reaches 12 to 15 mm Hg. Oliguria with hypotension is not a contraindication to vigorous fluid resuscitation. The quantity of fluid required often far exceeds the normal blood volume and may reach 10 to 20 liters in the first 24 hours."
+      },
+      {
+        "configuration": 5,
+        "settings": {
+          "retriever_k": 5,
+          "llm_params": {
+            "temperature": 0.2,
+            "maxTokenCount": 1500
+          }
+        },
+        "response": " Fluid resuscitation with 0.9% saline should be given until CVP reaches 8 mm Hg (10 cm H2O) or PAOP reaches 12 to 15 mm Hg. Oliguria with hypotension is not a contraindication to vigorous fluid resuscitation. The quantity of fluid required often far exceeds the normal blood volume and may reach 10 to 20 liters per day. Antibiotic therapy unless septic foci are eliminated. Normalization of blood glucose improves outcome in critically ill patients, even those not known to be diabetic. A continuous IV insulin infusion (crystalline zinc 1 to 4 U/h) is titrated to maintain glucose between 80 to 110 mg/dL (4.4 to 6.1 mmol/L). This approach necessitates frequent (eg, q 1 to 4 h) glucose measurement. Corticosteroid therapy seems beneficial. Treatment is with replacement doses rather than pharmacologic doses. One regimen consists of hydrocortisone 50 mg IV q 6 h (or 100 mg q 8 h) plus fludrocortisone 50 \u03bcg po once/day during hemodynamic instability and for 3 days thereafter. Activated protein C (drotrecogin alfa), a recombinant drug with fibrinolytic and anti-inflammatory activity, seems beneficial for severe sepsis and septic shock if it is begun early; benefit has been shown only in patients with significant risk of death as defined by an APACHE II score of > 25 (see Table 222-4 on p. 2248). Dosage is 24 \u03bcg/kg/h by continuous IV infusion for 96 h. Bleeding is the most common complication; thus, contraindications include hemorrhagic stroke within 3 mo, spinal or intracranial surgery within 2 mo, acute trauma with a risk of bleeding, and intracranial neoplasm. Risk-benefit assessment is required in other patients with increased risk of serious bleeding (eg, with thrombocytopenia or recent GI bleeding, receiving concurrent heparin, or with recent aspirin or other anticoagulant use). Other emerging therapies for severe sepsis include cooling for hyperthermia and early treatment of renal failure (eg, with continuous venovenous hemofiltration). Trials of monoclonal antibodies to the lipid A fraction of endotoxin, antileukotrienes, and antibodies to tumor necrosis factor have been unsuccessful."
+      }
+    ]
+  },
+  "Question 2": {
+    "question": "What are the common symptoms of appendicitis, and can it be cured via medicine? If not, what surgical procedure should be followed to treat it?",
+    "configurations": [
+      {
+        "configuration": 1,
+        "settings": {
+          "retriever_k": 5,
+          "llm_params": {
+            "temperature": 0.5,
+            "maxTokenCount": 1500
+          }
+        },
+        "response": " Appendicitis is characterized by abdominal pain, anorexia, and abdominal tenderness. It is a common cause of acute abdominal pain requiring surgery. Treatment typically involves surgical removal, although antibiotics may be used in some cases. In rare instances, a Meckel's diverticulum may need to be removed simultaneously with the appendectomy."
+      },
+      {
+        "configuration": 2,
+        "settings": {
+          "retriever_k": 8,
+          "llm_params": {
+            "temperature": 0.4,
+            "maxTokenCount": 1500
+          }
+        },
+        "response": "Sorry - this model is unable to respond to this request."
+      },
+      {
+        "configuration": 3,
+        "settings": {
+          "retriever_k": 3,
+          "llm_params": {
+            "temperature": 0.5,
+            "maxTokenCount": 1800
+          }
+        },
+        "response": "Sorry - this model is unable to respond to this request."
+      },
+      {
+        "configuration": 4,
+        "settings": {
+          "retriever_k": 5,
+          "llm_params": {
+            "temperature": 0.7,
+            "maxTokenCount": 1500
+          }
+        },
+        "response": "Sorry - this model is unable to respond to this request."
+      },
+      {
+        "configuration": 5,
+        "settings": {
+          "retriever_k": 5,
+          "llm_params": {
+            "temperature": 0.2,
+            "maxTokenCount": 1500
+          }
+        },
+        "response": "Sorry - this model is unable to respond to this request."
+      }
+    ]
+  },
+  "Question 3": {
+    "question": "What are the effective treatments or solutions for addressing sudden patchy hair loss, commonly seen as localized bald spots on the scalp, and what could be the possible causes behind it?",
+    "configurations": [
+      {
+        "configuration": 1,
+        "settings": {
+          "retriever_k": 5,
+          "llm_params": {
+            "temperature": 0.5,
+            "maxTokenCount": 1500
+          }
+        },
+        "response": " The most common type of hair loss is androgenetic alopecia, which is the most common type of hair loss. Other than hair loss, scalp symptoms (eg, itching, burning, tingling) are often absent and, when present, are not specific to any cause. Signs of hair loss in patterns other than those described above are nondiagnostic and may require microscopic hair examination or scalp biopsy for definitive diagnosis. Testing: Evaluation for causative disorders (eg, endocrinologic, autoimmune, toxic) should be done based on clinical suspicion. Male-pattern or female-pattern hair loss generally requires no testing. When it occurs in young men with no family history, the physician should question the patient about use of anabolic steroids and other drugs. In addition to questions regarding drug and illicit drug use, women with significant hair loss and evidence of virilization should have testosterone and dehydroepiandrosterone sulfate (DHEAS) levels measured (see p. 730). The pull test helps evaluate diffuse scalp hair loss. Gentle traction is exerted on a bunch of hairs (40 to'), and other common causes are primary hair shaft abnormalities, autoimmune disease, heavy metal poisoning, and rare dermatologic conditions. Evaluation History: History of present illness should cover the onset and duration of hair loss, whether hair shedding is increased, and whether hair loss is generalized or localized. Associated symptoms such as pruritus and scaling should be noted. Patients should be asked about typical hair care practices, including use of braids, rollers, and hair dryers, and whether they routinely pull or twist their hair. Review of systems should include recent exposures to noxious stimuli (eg, drugs, toxins, radiation) and stressors (eg, surgery, chronic illness, fever, psychologic stressors). Symptoms of possible causes should be sought, including fatigue and cold intolerance (hypothyroidism) and, in women, hirsutism, deepening of'), and treatment options include: \u2022 Topical, intralesional, or, in severe cases, systemic corticosteroids, topical minoxidil, topical anthralin, topical immunotherapy (diphencyprone or squaric acid dibutylester), or psoralen plus ultraviolet A (PUVA). \u2022 Treatment for traction alopecia is elimination of physical traction or stress to the scalp. \u2022 Treatment for tinea capitis is topical or oral antifungals (see p. 707). \u2022 Trichotillomania is difficult to treat, but behavior modification, clomipramine, or an SSRI (eg, fluoxetine, fluvoxamine, paroxetine, sertraline, citalopram) may be of benefit."
+      },
+      {
+        "configuration": 2,
+        "settings": {
+          "retriever_k": 8,
+          "llm_params": {
+            "temperature": 0.4,
+            "maxTokenCount": 1500
+          }
+        },
+        "response": " Androgenetic alopecia (male-pattern and female-pattern hair loss) is the most common type of hair loss. Concomitant virilization in women or scarring hair loss should prompt a thorough evaluation for the underlying disorder. Microscopic hair examination or scalp biopsy may be required for definitive diagnosis. Testing: Evaluation for causative disorders (eg, endocrinologic, autoimmune, toxic) should be done based on clinical suspicion. Male-pattern or female-pattern hair loss generally requires no testing. When it occurs in young men with no family history, the physician should question the patient about use of anabolic steroids and other drugs. In addition to questions regarding drug and illicit drug use, women with significant hair loss and evidence of virilization should have testosterone and dehydroepiandrosterone sulfate (DHEAS) levels measured (see p. 730). The pull test helps evaluate diffuse scalp hair loss. Gentle traction is exerted on a bunch of hairs (40 to'), Other than hair loss, scalp symptoms (eg, itching, burning, tingling) are often absent and, when present, are not specific to any cause. Signs of hair loss in patterns other than those described above are nondiagnostic and may require microscopic hair examination or scalp biopsy for definitive diagnosis. Testing: Evaluation for causative disorders (eg, endocrinologic, autoimmune, toxic) should be done based on clinical suspicion. Male-pattern or female-pattern hair loss generally requires no testing. When it occurs in young men with no family history, the physician should question the patient about use of anabolic steroids and other drugs. In addition to questions regarding drug and illicit drug use, women with significant hair loss and evidence of virilization should have testosterone and dehydroepiandrosterone sulfate (DHEAS) levels measured (see p. 730). The pull test helps evaluate diffuse scalp hair loss. Gentle traction is exerted on a bunch of hairs (40 to'), Systemic illnesses (particularly those that cause high fever, systemic lupus, endocrine disorders, and nutritional deficiencies) Less common causes are primary hair shaft abnormalities, autoimmune disease, heavy metal poisoning, and rare dermatologic conditions. Evaluation History: History of present illness should cover the onset and duration of hair loss, whether hair shedding is increased, and whether hair loss is generalized or localized. Associated symptoms such as pruritus and scaling should be noted. Patients should be asked about typical hair care practices, including use of braids, rollers, and hair dryers, and whether they routinely pull or twist their hair. Review of systems should include recent exposures to noxious stimuli (eg, drugs, toxins, radiation) and stressors (eg, surgery, chronic illness, fever, psychologic stressors). Symptoms of possible causes should be sought, including fatigue and cold intolerance (hypothyroidism) and, in women, hirsutism, deepening of'), Scarring alopecia as seen in central centrifugal scarring alopecia, dissecting cellulitis of the scalp, and acne keloidalis nuchae is best treated by a long-acting oral tetracycline in combination with a potent topical corticosteroid. Lichen planopilaris and chronic cutaneous lupus lesions may be treated with oral antimalarials, corticosteroids, retinoids, or immunosuppressants. Hair loss due to chemotherapy is temporary and is best treated with a wig; when hair regrows, it may be different in color and texture from the original hair. Hair loss due to telogen effluvium or anagen effluvium is usually temporary as well and abates after the precipitating agent is eliminated. Key Points Androgenetic alopecia (male-pattern and female-pattern hair loss) is the most common type of hair loss."
+      },
+      {
+        "configuration": 3,
+        "settings": {
+          "retriever_k": 3,
+          "llm_params": {
+            "temperature": 0.5,
+            "maxTokenCount": 1800
+          }
+        },
+        "response": " The most effective treatment for sudden patchy hair loss is minoxidil, which is an over-the-counter topical solution. It is applied directly to the affected areas of the scalp twice a day. Another effective treatment is finasteride, a prescription medication that is taken orally once a day. Other treatments include corticosteroids, which are applied directly to the affected areas of the scalp, and immunotherapy, which involves the use of corticosteroids or other medications to stimulate hair growth. In some cases, surgical procedures such as follicle transplant or scalp reduction may be necessary."
+      },
+      {
+        "configuration": 4,
+        "settings": {
+          "retriever_k": 5,
+          "llm_params": {
+            "temperature": 0.7,
+            "maxTokenCount": 1500
+          }
+        },
+        "response": " Androgenetic Alopecia, which is a hereditary condition that affects both men and women, is the most common cause of sudden patchy hair loss. It is caused by a combination of genetics and the male hormone dihydrotestosterone (DHT). Other common causes include drugs, infections, and autoimmune disorders. Treatment options for androgenetic alopecia include medications such as finasteride, minoxidil, and dutasteride, as well as surgical options such as follicle transplant, scalp flaps, and alopecia reduction. It is important to note that the exact cause of sudden patchy hair loss may vary between individuals, and a thorough evaluation by a healthcare professional is necessary to determine the best treatment plan."
+      },
+      {
+        "configuration": 5,
+        "settings": {
+          "retriever_k": 5,
+          "llm_params": {
+            "temperature": 0.2,
+            "maxTokenCount": 1500
+          }
+        },
+        "response": " Androgenetic alopecia (male-pattern or female-pattern hair loss) is the most common type of hair loss. Concomitant virilization in women or scarring hair loss should prompt a thorough evaluation for the underlying disorder. Microscopic hair examination or scalp biopsy may be required for definitive diagnosis. Other than hair loss, scalp symptoms (eg, itching, burning, tingling) are often absent and, when present, are not specific to any cause. Signs of hair loss in patterns other than those described above are nondiagnostic and may require microscopic hair examination or scalp biopsy for definitive diagnosis. Testing: Evaluation for causative disorders (eg, endocrinologic, autoimmune, toxic) should be done based on clinical suspicion. Male-pattern or female-pattern hair loss generally requires no testing. When it occurs in young men with no family history, the physician should question the patient about use of anabolic steroids and other drugs. In addition to questions regarding drug and illicit drug use, women with significant hair loss and evidence of virilization should have testosterone and dehydroepiandrosterone sulfate (DHEAS) levels measured (see p. 730). The pull test helps evaluate diffuse scalp hair loss. Gentle traction is exerted on a bunch of hairs (40 to'), and other common causes of hair loss are drugs (including chemotherapeutic agents), infection, and primary hair shaft abnormalities. Evaluation: History: History of present illness should cover the onset and duration of hair loss, whether hair shedding is increased, and whether hair loss is generalized or localized. Associated symptoms such as pruritus and scaling should be noted. Patients should be asked about typical hair care practices, including use of braids, rollers, and hair dryers, and whether they routinely pull or twist their hair. Review of systems should include recent exposures to noxious stimuli (eg, drugs, toxins, radiation) and stressors (eg, surgery, chronic illness, fever, psychologic stressors). Symptoms of possible causes should be sought, including fatigue and cold intolerance (hypothyroidism) and, in women, hirsutism, deepening of the voice, and acne. Treatment: Treatment for traction alopecia is elimination of physical traction or stress to the scalp. Treatment for tinea capitis is topical or oral antifungals (see p. 707). Trichotillomania is difficult to treat, but behavior modification, clomipramine, or an SSRI (eg, fluoxetine, fluvoxamine, paroxetine, sertraline, citalopram) may be of benefit."
+      }
+    ]
+  },
+  "Question 4": {
+    "question": "What treatments are recommended for a person who has sustained a physical injury to brain tissue, resulting in temporary or permanent impairment of brain function?",
+    "configurations": [
+      {
+        "configuration": 1,
+        "settings": {
+          "retriever_k": 5,
+          "llm_params": {
+            "temperature": 0.5,
+            "maxTokenCount": 1500
+          }
+        },
+        "response": " The cornerstone of management for all patients is maintenance of adequate ventilation, oxygenation, and brain perfusion to avoid secondary brain insult. Aggressive early management of hypoxia, hypercapnia, and hypotension is recommended."
+      },
+      {
+        "configuration": 2,
+        "settings": {
+          "retriever_k": 8,
+          "llm_params": {
+            "temperature": 0.4,
+            "maxTokenCount": 1500
+          }
+        },
+        "response": " The cornerstone of management for all patients is maintenance of adequate ventilation, oxygenation, and brain perfusion to avoid secondary brain insult. Aggressive early management of hypoxia, hypercapnia, and hypotension is recommended."
+      },
+      {
+        "configuration": 3,
+        "settings": {
+          "retriever_k": 3,
+          "llm_params": {
+            "temperature": 0.5,
+            "maxTokenCount": 1800
+          }
+        },
+        "response": " Surgery may be necessary in patients with more severe injuries to place monitors to track and treat intracranial pressure, decompress the brain if intracranial pressure is increased, or remove intracranial hematomas. In the first few days after the injury, maintaining adequate brain perfusion and oxygenation and preventing complications of altered sensorium are important. Rehabilitation is best provided through a team approach that combines physical, occupational, and speech therapy, skill-building activities, and counseling to meet the patient's social and emotional needs. Brain injury support groups may provide assistance to the families of brain-injured patients. For patients whose coma exceeds 24 h, 50% of whom have major persistent neurologic sequelae, a prolonged period of rehabilitation, particularly in cognitive and emotional areas, is often required."
+      },
+      {
+        "configuration": 4,
+        "settings": {
+          "retriever_k": 5,
+          "llm_params": {
+            "temperature": 0.7,
+            "maxTokenCount": 1500
+          }
+        },
+        "response": " Surgery is often needed in patients with more severe injury to place monitors to track and treat intracranial pressure, decompress the brain if intracranial pressure is increased, or remove intracranial hematomas. In the first few days after the injury, maintaining adequate brain perfusion and oxygenation and preventing complications of altered sensorium are important. Subsequently, many patients require rehabilitation. Rehabilitation is best provided through a team approach that combines physical, occupational, and speech therapy, skill-building activities, and counseling to meet the patient's social and emotional needs. Brain injury support groups may provide assistance to the families of brain-injured patients."
+      },
+      {
+        "configuration": 5,
+        "settings": {
+          "retriever_k": 5,
+          "llm_params": {
+            "temperature": 0.2,
+            "maxTokenCount": 1500
+          }
+        },
+        "response": " The cornerstone of management for all patients is maintenance of adequate ventilation, oxygenation, and brain perfusion to avoid secondary brain insult. Aggressive early management of hypoxia, hypercapnia, and hypotension is recommended."
+      }
+    ]
+  },
+  "Question 5": {
+    "question": "What are the necessary precautions and treatment steps for a person who has fractured their leg during a hiking trip, and what should be considered for their care and recovery?",
+    "configurations": [
+      {
+        "configuration": 1,
+        "settings": {
+          "retriever_k": 5,
+          "llm_params": {
+            "temperature": 0.5,
+            "maxTokenCount": 1500
+          }
+        },
+        "response": " The necessary precautions and treatment steps for a person who has fractured their leg during a hiking trip, and what should be considered for their care and recovery are:\n        - Restriction of weight-bearing activity\n        - Use of crutches\n        - Wooden shoe or other supportive shoe or boot\n        - Healing can take anywhere from 6 to 12 wk\n        - Popliteus Tendinitis is inflammation in the popliteus tendon, which extends from the outer surface of the bottom of the femur diagonally across the posterior knee to the medial superior tibia."
+      },
+      {
+        "configuration": 2,
+        "settings": {
+          "retriever_k": 8,
+          "llm_params": {
+            "temperature": 0.4,
+            "maxTokenCount": 1500
+          }
+        },
+        "response": " The Merck Manual of Diagnosis & Therapy, 19th Edition Chapter 338. Exercise & Sports Injury 3489 nipunshah6776@gmail.com 0W3XG8QC4A This file is meant for personal use by nipunshah6776@gmail.com only. Sharing or publishing the contents in part or full is liable for legal action."
+      },
+      {
+        "configuration": 3,
+        "settings": {
+          "retriever_k": 3,
+          "llm_params": {
+            "temperature": 0.5,
+            "maxTokenCount": 1800
+          }
+        },
+        "response": " The Merck Manual of Diagnosis & Therapy, 19th Edition Chapter 350. Rehabilitation 3634 nipunshah6776@gmail.com 0W3XG8QC4A This file is meant for personal use by nipunshah6776@gmail.com only. Sharing or publishing the contents in part or full is liable for legal action.\nPatients with impairments in cognition and perception are taught ways to compensate. For example, they can use drug organizers (eg, containers marked for each day of the week).\nLeg Amputation Rehabilitation\nThe Merck Manual of Diagnosis & Therapy, 19th Edition Chapter 350. Rehabilitation 3634 nipunshah6776@gmail.com 0W3XG8QC4A This file is meant for personal use by nipunshah6776@gmail.com only. Sharing or publishing the contents in part or full is liable for legal action.\nPatients should also be taught what to do if they fall and cannot get up. Useful techniques include turning from the supine position to the prone position, getting on all fours, crawling to a strong support surface, and pulling up. Having frequent contact with family members or friends, a phone that can be reached from the floor, a remote alarm, or a wearable emergency response system device can decrease the likelihood of lying on the floor for a long time after a fall.\nCare of the stump and prosthesis: Patients must learn to care for their stump. Because a leg prosthesis is intended only for ambulation, patients should remove it before going to sleep. At bedtime, the stump should be inspected thoroughly (with a mirror if inspected by the patient), washed with mild soap and warm water, dried thoroughly, then dusted with talcum powder. Patients should treat the following possible problems:\nThe Merck Manual of Diagnosis & Therapy, 19th Edition Chapter 350. Rehabilitation 3635 nipunshah6776@gmail.com 0W3XG8QC4A This file is meant for personal use by nipunshah6776@gmail.com only. Sharing or publishing the contents in part or full is liable for legal action."
+      },
+      {
+        "configuration": 4,
+        "settings": {
+          "retriever_k": 5,
+          "llm_params": {
+            "temperature": 0.7,
+            "maxTokenCount": 1500
+          }
+        },
+        "response": " The necessary precautions and treatment steps for a person who has fractured their leg during a hiking trip include:\n        - Restriction of weight-bearing activity\n        - Use of crutches\n        - Cessation of weight bearing on the involved foot\n        - Use of a wooden shoe or other supportive shoe or boot\n        - Healing can take anywhere from 6 to 12 weeks."
+      },
+      {
+        "configuration": 5,
+        "settings": {
+          "retriever_k": 5,
+          "llm_params": {
+            "temperature": 0.2,
+            "maxTokenCount": 1500
+          }
+        },
+        "response": " The necessary precautions and treatment steps for a person who has fractured their leg during a hiking trip, and what should be considered for their care and recovery include:\n        - Restriction of weight-bearing activity\n        - Use of crutches\n        - Cessation of weight bearing on the involved foot\n        - Use of a wooden shoe or other supportive shoe or boot\n        - Healing can take anywhere from 6 to 12 wk."
+      }
+    ]
+  }
+}
