@@ -1,0 +1,37 @@
+Here is the properly formatted and unescaped JSON version of your input:
+
+model id
+us.meta.llama3-2-1b-instruct-v1:0
+
+```json
+{
+  "modelId": "meta.llama3-2-1b-instruct-v1:0",
+  "contentType": "application/json",
+  "accept": "application/json",
+  "body": {
+    "inputs": [
+      [
+        {
+          "role": "user",
+          "content": "Tell me about Paris"
+        },
+        {
+          "role": "assistant",
+          "content": "Paris is a city in France."
+        },
+        {
+          "role": "user",
+          "content": "Is it the biggest city in France?"
+        }
+      ]
+    ],
+    "parameters": {
+      "max_new_tokens": 512,
+      "top_p": 0.9,
+      "temperature": 0.6
+    }
+  }
+}
+```
+
+Would you like this in a minified form or embedded inside a string for a request?

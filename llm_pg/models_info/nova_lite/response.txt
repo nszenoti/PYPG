@@ -1,0 +1,39 @@
+Sure! Here's a small Python function that extracts the `text` content from the nested dictionary structure you've provided:
+
+```python
+def extract_text(response):
+    try:
+        return response["output"]["message"]["content"][0]["text"]
+    except (KeyError, IndexError, TypeError):
+        return None
+```
+
+### Example usage:
+
+```python
+response = {
+    'output': {
+        'message': {
+            'content': [
+                {
+                    'text': "Quantum computing is a type of computing..."
+                }
+            ],
+            'role': 'assistant'
+        }
+    },
+    'stopReason': 'end_turn',
+    'usage': {
+        'inputTokens': 11,
+        'outputTokens': 366,
+        'totalTokens': 377,
+        'cacheReadInputTokenCount': 0,
+        'cacheWriteInputTokenCount': 0
+    }
+}
+
+text = extract_text(response)
+print(text)
+```
+
+Let me know if you'd like the function to handle multiple text blocks or return a fallback message.

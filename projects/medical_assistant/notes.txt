@@ -1,0 +1,1 @@
+Design Config for Promopts such that it wont take much to respond

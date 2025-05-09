@@ -1,0 +1,23 @@
+
+> conda install notebook jupyter ipykernel ipython ipywidgets
+
+Then register your environment for notebook use:
+
+> python -m ipykernel install --user --name=llm-env --display-name "Python (llm-env)"
+> output : Installed kernelspec llm-env in /Users/nipunshah/Library/Jupyter/kernels/llm-env
+
+> pip install
+
+notebook
+jupyter
+ipython
+jupyterlab
+ipykernel
+ipywidgets
+
+numpy
+pandas
+python-dotenv
+scikit-learn
+matplotlib
+seaborn

@@ -1,0 +1,15 @@
+boto3
+torch
+transformers
+accelerate
+huggingface_hub
+datasets
+sentence-transformers
+
+scikit-learn
+matplotlib
+seaborn
+
+numpy
+pandas
+python-dotenv
