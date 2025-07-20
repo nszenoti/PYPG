@@ -41,3 +41,23 @@ Credit Card (Biz)
 - Laser, Mastercard, and American Express received the highest average discounts
 - The minimal discount variation suggests credit card type isn't a major factor in pricing strategy.
 - JCB dominates market share
+
+Shipping (Insights)
+
+- Consistent quarter-over-quarter increase in delays
+- This indicates progressively slower logistics or fulfillment issues over time - a potential red flag for customer satisfaction.
+- Trend suggests decreasing operational efficiency in order processing and shipping across quarters.
+
+Biz Metric
+```
+| Metric                   | Value           |
+|--------------------------|-----------------|
+| Total Revenue            | 124,714,086.32  |
+| Total Orders             | 1,000           |
+| Total Active Customers   | 994             |
+| Average Ratings          | 3.14            |
+| Last Quarter Revenue     | 23,346,779.63   |
+| Last Quarter Orders      | 199             |
+| Average Days to Ship     | 98              |
+| % Good Feedback          | 44.10%          |
+```

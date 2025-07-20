@@ -1,0 +1,7 @@
+considerations
+implications
+takeaways
+guidence
+recommendatins
+propositions
+Suggestions
